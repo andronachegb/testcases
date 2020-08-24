@@ -4,6 +4,17 @@
         <tags>tag1</tags>
         <language>Python</language>
     </general>
+    <execution>
+        <parameters version="8.2.0.202004140907">
+            <parameters escape="true">
+                <parameters xmlns:pt="http://www.fnfr.com/schemas/parameterTree">
+                    <param1/>
+                    <param2/>
+                    <param3/>
+                </parameters>
+            </parameters>
+        </parameters>
+    </execution>
     <procedures>
         <item name="main">
             <steps>
