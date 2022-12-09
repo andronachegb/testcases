@@ -12,3 +12,6 @@ pc2.power_on()
 pc2.restart()
 pc2.shut_down()
 pc2.power_on()
+
+pc3.power_on()
+pc3.restart()
